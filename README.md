@@ -8,7 +8,6 @@
 
 - Ruby 2.5.1
 - Rails 6.0.2.2
-- Sorcery gem for authentication
 - Paperclip gem for image uploads
 
 ## Live Demo
