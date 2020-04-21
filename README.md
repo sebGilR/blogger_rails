@@ -1,24 +1,40 @@
-# README
+# Blogger - Rails project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a basic blog created with Ruby on Rails to practice the workflow for setting up an application following MVC.
 
-Things you may want to cover:
+![screenshot](public/screenshot.png)
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby 2.5.1
+- Rails 6.0.2.2
+- Sorcery gem for authentication
+- Paperclip gem for image uploads
 
-* Configuration
+## Live Demo
 
-* Database creation
+[Live Demo Link](https://afternoon-atoll-92628.herokuapp.com)
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Sebastian Gil Rodriguez**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@sebGilR](https://github.com/sebGilR)
+- Twitter: [@sebGilR](https://twitter.com/sebGilR)
+- Linkedin: [linkedin](https://www.linkedin.com/in/sebastiangilrodriguez)
 
-* Deployment instructions
+👤 **Xochitl Selene Flores Perez**
 
-* ...
+- Github: [@enelesmai](https://github.com/enelesmai)
+- Twitter: [@enelesmai](https://twitter.com/enelesmai)
+- Linkedin: [xochitlselene](https://www.linkedin.com/in/xochitlselene)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
