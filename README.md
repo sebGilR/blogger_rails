@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](UPDATE)
+[Live Demo Link](https://afternoon-atoll-92628.herokuapp.com)
 
 ## Authors
 
@@ -23,11 +23,11 @@
 - Twitter: [@sebGilR](https://twitter.com/sebGilR)
 - Linkedin: [linkedin](https://www.linkedin.com/in/sebastiangilrodriguez)
 
-👤 **Author2**
+👤 **Xochitl Selene Flores Perez**
 
 - Github: [@enelesmai](https://github.com/enelesmai)
-- Twitter: [@UPDATE](https://twitter.com/UPDATE)
-- Linkedin: [linkedin](UPDATE)
+- Twitter: [@enelesmai](https://twitter.com/enelesmai)
+- Linkedin: [xochitlselene](https://www.linkedin.com/in/xochitlselene)
 
 ## 🤝 Contributing
 
